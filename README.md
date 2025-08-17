@@ -30,7 +30,7 @@ Or download and extract the project files to `C:/xampp/htdocs/lunch_box`.
     - Select the provided `.sql` file (usually in the project folder).
     - Click **Go**.
 
-## 4. Configure Database Connection
+## 4. Configure Database Connection Maruf
 
 - Edit the database configuration file (e.g., `config.php`).
 - Set your database name, username, and password:
